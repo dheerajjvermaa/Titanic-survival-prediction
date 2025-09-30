@@ -4,6 +4,9 @@
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-prediction-zxnfpjpnxx3tpehdxtbewj.streamlit.app/)
+
+
 ## 1. Overview
 
 This project is an end-to-end data science implementation focused on predicting passenger survival on the RMS Titanic. The goal was to build a machine learning model that accurately predicts whether a passenger survived based on features like age, gender, and passenger class.
