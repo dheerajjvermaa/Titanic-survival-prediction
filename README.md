@@ -1,19 +1,3 @@
-Excellent idea. A professional `README.md` is crucial for a GitHub portfolio project. It's the first thing recruiters and other developers will see.
-
-Here is a comprehensive template for your `README.md` file. It's structured to be clear, professional, and to highlight the skills you demonstrated in this project.
-
------
-
-### **Instructions:**
-
-1.  In your GitHub repository, create a new file named `README.md`.
-2.  Copy and paste the text below into the file.
-3.  Replace the placeholder text like `[Your Name]` and `[Link to your repository]` with your own information.
-4.  Create a `requirements.txt` file as described in the "Installation" section.
-
------
-
-```markdown
 # Titanic Survival Prediction Project
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
