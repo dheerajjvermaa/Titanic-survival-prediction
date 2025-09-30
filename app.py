@@ -1,9 +1,9 @@
 import streamlit as st
-import pickle
+import joblib
 import pandas as pd
 import numpy as np
 
-model = pickle.load(open('titanic_survival_model.pkl', 'rb'))
+model = joblib.load(open('titanic_survival_model.pkl', 'rb'))
 
 st.title('Titanic Survival Predictor')
 st.header('Enter Passenger Information:')
