@@ -1,6 +1,6 @@
 # **Titanic Survival Prediction: A Machine Learning Project Report**
 
-### **Project by: [Your Name Here]**
+### **Project by: Dheeraj Verma**
 
 ## **1. Project Overview**
 
