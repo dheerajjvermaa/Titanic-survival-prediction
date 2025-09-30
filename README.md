@@ -56,34 +56,22 @@ To run this project on your local machine, please follow the steps below.
 * Python 3.9 or higher
 * pip package manager
 
-### **Step 1: Create a `requirements.txt` File**
-First, you need to create a file named `requirements.txt` in the root of your project directory and add the following libraries to it:
+### **Step 1: Download requirement.txt File**
 
-```
-
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-streamlit
-joblib
-
-````
 
 ### **Step 2: Clone the Repository & Install Dependencies**
 
 ```bash
 # Clone this repository
-git clone [Link to your repository]
-cd [repository-folder-name]
+git clone https://github.com/dheerajjvermaa/Titanic-survival-prediction.git
+cd Titanic-survival-prediction
 
 # Create and activate a virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 # Install the required packages
-pip install -r requirements.txt
+pip install -r requirement.txt
 ````
 
 ### **Step 3: Run the Jupyter Notebook**
