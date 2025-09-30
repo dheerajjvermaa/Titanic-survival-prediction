@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Project
+# Titanic Survival Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-red.svg)](https://streamlit.io/)
